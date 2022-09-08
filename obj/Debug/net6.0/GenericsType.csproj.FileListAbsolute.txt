@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\bin\Debug\net6.0\GenericsType.exe
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\bin\Debug\net6.0\GenericsType.deps.json
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\bin\Debug\net6.0\GenericsType.runtimeconfig.json
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\bin\Debug\net6.0\GenericsType.dll
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\bin\Debug\net6.0\GenericsType.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.AssemblyInfo.cs
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.dll
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\refint\GenericsType.dll
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\GenericsType.genruntimeconfig.cache
+C:\Users\User\Desktop\Self-education\Beetroot\GenericsType\GenericsType\obj\Debug\net6.0\ref\GenericsType.dll
