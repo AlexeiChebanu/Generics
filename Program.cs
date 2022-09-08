@@ -3,7 +3,7 @@
     class Stack<T>
     {
         private List<T> stack = new List<T>();
-        public int Count { get { return stack.Count; } }
+
         public void Push(T value)
         {
             stack.Add(value);
@@ -21,6 +21,11 @@
             stack.Clear();
         }
 
+        public int Count() 
+        { 
+            return stack.Count;
+        }
+
         public T Peek()
         {
             return stack.Last();
@@ -30,7 +35,7 @@
             T[] tmpStack = stack.ToArray();
             Array.Reverse(tmpStack);
 
-            for (int i = tmpStack.Length - 1; i > 0; i--)
+            for (int i = tmpStack.Length - 1; i >= 0; i--)
             {
                 array[i] = tmpStack[i];
             }
@@ -44,18 +49,16 @@
         {
             Stack<int> stack = new Stack<int>();
             stack.Push(1);
-            stack.Push(123);
-            stack.Push(456);
-            stack.Push(13453);
-            stack.Push(0);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Push(5);
 
-            int[] MyStackData = new int[stack.Count];
-            stack.CopyTo(MyStackData);
+            int[] copyStack = new int[stack.Count()];
+            stack.CopyTo(copyStack);
 
-            foreach (int i in MyStackData)
-            {
+            foreach (int i in copyStack)
                 Console.WriteLine(i);
-            }
         }
     }
 }
